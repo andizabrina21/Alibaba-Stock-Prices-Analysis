@@ -4,7 +4,7 @@ Alibaba Group Holding Ltd. merupakan perusahaan teknologi terbesar dari Tiongkok
 Harga saham Alibaba seringkali mengalami fluktuasi yang cukup tinggi karena dipengaruhi oleh faktor internal perusahaan maupun faktor eksternal seperti perubahan regulasi, kondisi pasar global dan kompetisi antar investor. Oleh karena itu, diperlukan analisis harga saham Alibaba untuk memahami pola pergerakan harga, mengidentifikasi tren, serta mengevaluasi potensi risiko dan peluang investasi.
 
 ## Dataset
-Data berupa stok saham Alibaba periode Januari 2014 hingga Februari 2025 yang diambil dari New York Stock Exchange(NYSE) dengan kode BABA. Dataset ini bersumber dari Kaggle.\
+Data berupa saham Alibaba periode Januari 2014 hingga Februari 2025 yang diambil dari New York Stock Exchange(NYSE). Dataset ini bersumber dari ![Kaggle](https://www.kaggle.com/datasets/mhassansaboor/alibaba-stock-dataset-2025/data)\
 ![Deskripsi gambar](images/Datasetpic.png)
 
 ## Exploratory Data Analysis
@@ -37,7 +37,13 @@ tersebut didukung oleh aktivitas perdagangan yang tinggi.
 Grafik tren volume per tahun menunjukkan bahwa pada tahun 2014 terjadi perdagangan yang sangat aktif yang mencerminkan sentimen pasar yang sangat kuat. Sebaliknya volume perdagangan terendah terjadi pada tahun 2016 yang menunjukkan pada tahun tersebut pasar lebih sepi atau kurangnya sentimen pasar terhadap saham.
 
 ### Moving Average
-
+![MA](images/Ma20n100.png)\
+Grafik moving average menunjukkan bahwa harga saham Alibaba mengalami
+tren kenaikan yang kuat sejak sekitar tahun 2015 hingga mencapai puncak pada tahun 2020-2021, ditandai dengan MA 20 yang sering berada di atas MA 100 hari, menunjukkan kondisi bullish. Setelah
+mencapai puncaknya, harga mengalami penurunan signifikan, ditandai oleh
+perpotongan MA 20 dan MA 100 dan posisi MA 20 yang berada di bawah MA 100, mengindikasikan perubahan tren menjadi bearish.
+Pada periode selanjutnya, pergerakan harga cenderung lebih stabil
+dengan moving average yang relatif mendatar.
 
 ### Correlation Matrix
 ![Corr Matrix](images/Corr_Matrix.png)\
