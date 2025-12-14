@@ -4,7 +4,7 @@ Alibaba Group Holding Ltd. merupakan perusahaan teknologi terbesar dari Tiongkok
 Harga saham Alibaba seringkali mengalami fluktuasi yang cukup tinggi karena dipengaruhi oleh faktor internal perusahaan maupun faktor eksternal seperti perubahan regulasi, kondisi pasar global dan kompetisi antar investor. Oleh karena itu, diperlukan analisis harga saham Alibaba untuk memahami pola pergerakan harga, mengidentifikasi tren, serta mengevaluasi potensi risiko dan peluang investasi.
 
 ## Dataset
-Data berupa saham Alibaba periode Januari 2014 hingga Februari 2025 yang diambil dari New York Stock Exchange(NYSE). Dataset ini bersumber dari ![Kaggle](https://www.kaggle.com/datasets/mhassansaboor/alibaba-stock-dataset-2025/data)\
+Data berupa saham Alibaba periode Januari 2014 hingga Februari 2025 yang diambil dari New York Stock Exchange(NYSE). Dataset ini bersumber dari [Kaggle](https://www.kaggle.com/datasets/mhassansaboor/alibaba-stock-dataset-2025/data)\
 ![Deskripsi gambar](images/Datasetpic.png)
 
 ## Exploratory Data Analysis
