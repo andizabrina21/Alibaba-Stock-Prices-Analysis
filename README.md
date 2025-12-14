@@ -9,10 +9,42 @@ Data berupa stok saham Alibaba periode Januari 2014 hingga Februari 2025 yang di
 
 ## Exploratory Data Analysis
 ### Tren Harga Penutupan (Close Price)
-![Tren Harga Penutupan](images/Close Price Trend.png)\
+![Tren Harga Penutupan](images/Close_Price_Trend.png)\
 Dari tren harga closing, bisa dilihat bahwa harga penutupan mengalami fluktuasi yang cukup signifikan dari waktu ke waktu. Terdapat beberapa periode di mana harga meningkat tajam hingga mencapai
 level tinggi, namun kenaikan tersebut tidak terjadi secara konsisten
-sepanjang waktu. Harga mencapai puncak sekitar tahun 2020 dan terendah sekitar tahun 2015.
+sepanjang waktu. Harga terendah sekitar tahun 2015 dan mencapai puncak sekitar tahun 2020.
+
+### Daily High-Low Range
+![Daily HL Range](images/Daily_High-Low_Range.png)\
+Grafik rentang harga harian (High–Low) menunjukkan bahwa volatilitas
+harga saham Alibaba bervariasi dari waktu ke waktu. Terdapat beberapa
+periode dengan rentang harga yang jauh lebih besar dibandingkan periode
+lainnya, yang mengindikasikan adanya peningkatan volatilitas harian. Lonjakan pada rentang High–Low pada periode tertentu menunjukkan bahwa
+pada hari-hari tersebut terjadi pergerakan harga yang lebih ekstrem,
+meskipun arah pergerakan tidak selalu sama.
+
+### Trend Volume
+![Vol Trend](images/Volume_Trend.png)\
+Grafik volume perdagangan menunjukkan bahwa aktivitas transaksi saham
+Alibaba bervariasi dari waktu ke waktu, dengan beberapa periode
+menunjukkan lonjakan volume yang signifikan. Lonjakan tersebut
+mengindikasikan meningkatnya partisipasi pelaku pasar pada periode
+tertentu.\
+Peningkatan volume pada periode tertentu sejalan dengan meningkatnya
+volatilitas harga, yang menunjukkan bahwa pergerakan harga pada periode
+tersebut didukung oleh aktivitas perdagangan yang tinggi.
+![Vol Year Trend](images/Trading_Volume_Per_Year.png)\
+Grafik tren volume per tahun menunjukkan bahwa pada tahun 2014 terjadi perdagangan yang sangat aktif yang mencerminkan sentimen pasar yang sangat kuat. Sebaliknya volume perdagangan terendah terjadi pada tahun 2016 yang menunjukkan pada tahun tersebut pasar lebih sepi atau kurangnya sentimen pasar terhadap saham.
+
+### Moving Average
 
 
+### Correlation Matrix
+![Corr Matrix](images/Corr_Matrix.png)\
+Hasil analisis korelasi menunjukkan bahwa variabel Open, High, Low,
+dan Close memiliki korelasi yang sangat kuat satu sama lain, yang
+menunjukkan bahwa pergerakan harga saham bersifat konsisten dalam satu
+hari perdagangan. Sementara itu, volume perdagangan memiliki korelasi
+yang relatif lemah terhadap harga, yang mengindikasikan bahwa tingginya
+volume tidak selalu diikuti oleh perubahan harga yang signifikan.
 
