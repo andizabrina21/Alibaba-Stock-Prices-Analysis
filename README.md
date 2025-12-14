@@ -5,6 +5,7 @@ Harga saham Alibaba seringkali mengalami fluktuasi yang cukup tinggi karena dipe
 
 ## Dataset
 Data berupa stok saham Alibaba periode Januari 2014 hingga Februari 2025 yang diambil dari New York Stock Exchange(NYSE) dengan kode BABA. Dataset ini bersumber dari Kaggle.\
+![Deskripsi gambar](images/Datasetpic.png)
 
 ## Exploratory Data Analysis
 ### Tren Harga Penutupan (Close Price)
