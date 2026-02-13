@@ -37,7 +37,7 @@ tersebut didukung oleh aktivitas perdagangan yang tinggi.
 Grafik tren volume per tahun menunjukkan bahwa pada tahun 2014 terjadi perdagangan yang sangat aktif yang mencerminkan sentimen pasar yang sangat kuat. Sebaliknya volume perdagangan terendah terjadi pada tahun 2016 yang menunjukkan pada tahun tersebut pasar lebih sepi atau kurangnya sentimen pasar terhadap saham.
 
 ### Moving Average
-![MA](images/Ma20n100.png)\
+![MA](images/Ma.png)\
 Grafik moving average menunjukkan bahwa harga saham Alibaba mengalami
 tren kenaikan yang kuat sejak sekitar tahun 2015 hingga mencapai puncak pada tahun 2020-2021, ditandai dengan MA 20 yang sering berada di atas MA 100 hari, menunjukkan kondisi bullish. Setelah
 mencapai puncaknya, harga mengalami penurunan signifikan, ditandai oleh
