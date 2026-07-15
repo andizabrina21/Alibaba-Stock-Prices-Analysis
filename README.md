@@ -7,12 +7,13 @@ Harga saham Alibaba seringkali mengalami fluktuasi yang cukup tinggi karena dipe
 Data berupa saham Alibaba periode Januari 2014 hingga Februari 2025 yang diambil dari New York Stock Exchange(NYSE). Dataset ini bersumber dari [Kaggle](https://www.kaggle.com/datasets/mhassansaboor/alibaba-stock-dataset-2025/data)\
 ![Deskripsi gambar](images/Datasetpic.png)
 
-## Exploratory Data Analysis
-### Tren Harga Penutupan (Close Price)
-![Tren Harga Penutupan](images/Close_Price_Trend.png)\
-Dari tren harga closing, bisa dilihat bahwa harga penutupan mengalami fluktuasi yang cukup signifikan dari waktu ke waktu. Terdapat beberapa periode di mana harga meningkat tajam hingga mencapai
-level tinggi, namun kenaikan tersebut tidak terjadi secara konsisten
-sepanjang waktu. Harga terendah sekitar tahun 2015 dan mencapai puncak sekitar tahun 2020.
+## Dashboard Overview
+![Dashboard](images/Dashboard.png)
+
+## Dashboard Insights & Business Recommendation 
+### Key Performance Indicator
+![KPI](images/Dashboard.png)
+- rbwrjee
 
 ### Daily High-Low Range
 ![Daily HL Range](images/Daily_High-Low_Range.png)\
