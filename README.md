@@ -1,11 +1,24 @@
 # Alibaba-Stock-Prices-Analysis
-Alibaba Group Holding Ltd. merupakan perusahaan teknologi terbesar dari Tiongkok yang memainkan peran penting dalam perkembangan ekonomi digital, baik di pasar domestik Tiongkok maupun secara global. Saham Alibaba diperdagangkan di beberapa bursa International salah satunya di New York Stock Exchange dengan kode BABA.
+Alibaba Group Holding Ltd. merupakan salah satu perusahaan teknologi terbesar di Tiongkok yang memainkan peran penting dalam perkembangan ekonomi digital, baik di pasar domestik maupun secara global. Saham Alibaba diperdagangkan di beberapa bursa International salah satunya di New York Stock Exchange (NYSE) dengan kode BABA.
 
-Harga saham Alibaba seringkali mengalami fluktuasi yang cukup tinggi karena dipengaruhi oleh faktor internal perusahaan maupun faktor eksternal seperti perubahan regulasi, kondisi pasar global dan kompetisi antar investor. Oleh karena itu, diperlukan analisis harga saham Alibaba untuk memahami pola pergerakan harga, mengidentifikasi tren, serta mengevaluasi potensi risiko dan peluang investasi.
+## Project Overview
+Project ini bertujuan untuk menganalisis pergerakan harga saham Alibaba menggunakan pendekatan data analytics guna mengidentifikasi pola, tren, volatilitas, serta potensi risiko dan peluang investasi. Hasil analisis diharapkan dapat memberikan insight yang bermanfaat sebagai pendukung pengambilan keputusan bagi investor maupun pihak yang tertarik mempelajari perilaku pasar saham.
 
-## Dataset
-Data berupa saham Alibaba periode Januari 2014 hingga Februari 2025 yang diambil dari New York Stock Exchange(NYSE). Dataset ini bersumber dari [Kaggle](https://www.kaggle.com/datasets/mhassansaboor/alibaba-stock-dataset-2025/data)\
+## Business Problem
+Saham merupakan aset penting bagi perusahaan sebagai sumber pendanaan untuk mendukung ekspansi bisnis, sekaligus menjadi instrumen investasi bagi investor. Saham memiliki pergerakan harga yang dinamis dan dipengaruhi oleh berbagai faktor, seperti kinerja perusahaan, kondisi ekonomi, perubahan regulasi, serta sentimen pasar. Oleh karena itu, analisis pasar saham penting dilakukan untuk memahami pola pergerakan pasar dan mendukung pengambilan keputusan investasi yang lebih baik. Sebagai salah satu perusahaan teknologi terbesar di dunia, harga saham Alibaba (BABA) mengalami fluktuasi yang cukup tinggi dari waktu ke waktu. Analisis terhadap data historis harga saham diperlukan untuk mengidentifikasi tren, mengukur tingkat volatilitas, serta menemukan insight mengenai potensi risiko dan peluang investasi.
+
+## Dataset Description
+Data berupa saham Alibaba periode Januari 2014 hingga Februari 2025 yang diambil dari New York Stock Exchange(NYSE). Dataset ini bersumber dari [Kaggle].
+(https://www.kaggle.com/datasets/mhassansaboor/alibaba-stock-dataset-2025/data)\
 ![Deskripsi gambar](images/Datasetpic.png)
+Data tersebut berisi informasi mengenai pergerakan saham Alibaba Group yang terdaftar di NYSE yang terdiri dari beberapa variabel yang merepresentasikan aktivitas perdagangan saham, sebagai berikut,
+- Date: Menunjukkan tanggal perdagangan saham.
+- Adj Close: Harga penutupan yang telah disesuaikan setelah pembagian dividen dan stock split.
+- Close: Harga saham pada saat penutupan pasar.
+- High: Harga tertinggi yang dicapai saham dalam satu hari perdagangan.
+- Low: Harga terendah yang dicapai saham dalam satu hari perdagangan.
+- Open: Harga saham pada saat pembukaan pasar.
+- Volume: Jumlah saham yang diperdagangkan dalam satu hari.
 
 ## Dashboard Overview
 ![Dashboard](images/Dashboard.png)
