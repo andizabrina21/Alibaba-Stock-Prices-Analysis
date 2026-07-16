@@ -34,21 +34,21 @@ Data tersebut berisi informasi mengenai pergerakan saham Alibaba Group yang terd
   - High liquidity enables investors to enter and exit positions more efficiently, typically with lower slippage risk and narrower bid-ask spreads, resulting in smoother trade execution.
 
 ### Trend and Moving Average
-![MA](images/3-Trend_and_MA.png)\
+![MA](images/3-Trend_and_MA.png)
 - Harga saham Alibaba menunjukkan tren naik yang kuat selama 2016–2020, mencerminkan fase pertumbuhan perusahaan dan meningkatnya kepercayaan investor. Namun, pada periode 2021–2022 terjadi pembalikan tren yang signifikan, ditandai dengan MA 50 hari memotong ke bawah MA 200 hari (Death Cross), yang mengindikasikan momentum bearish yang kuat.
   - Investor sebaiknya meningkatkan kewaspadaan selama periode bearish dan menerapkan strategi manajemen risiko, seperti penggunaan stop-loss atau pengurangan eksposur, untuk membatasi potensi kerugian.
 - Sejak 2023, harga saham bergerak sideways, menunjukkan fase konsolidasi setelah tren penurunan. Meskipun terdapat indikasi pemulihan pada periode terbaru, momentum tersebut belum cukup kuat untuk mengonfirmasi terbentuknya tren bullish jangka panjang.
   - Investor sebaiknya menunggu konfirmasi breakout atau sinyal bullish yang lebih kuat sebelum menambah posisi, sehingga risiko false breakout dapat diminimalkan.
 
 ### Candlestick
-![Candlestick](images/4-Candlestick.png)\
+![Candlestick](images/4-Candlestick.png)
 - Candlestick bullish dan bearish muncul secara bergantian selama periode 2017-2021, namun di didominasi oleh candlestick bullish, mencerminkan buying pressure lebih kuat sehinggga mendorong harga saham mencapai puncaknya pada tahun 2021. Setelah itu, frekuensi candlestick bearish meningkat dan diikuti penurunan harga yang tajam, menunjukkan perubahan sentimen pasar dari bullish menjadi bearish.
   - Investor sebaiknya memperhatikan perubahan dominasi pola candlestick sebagai sinyal awal perubahan tren, sehingga dapat mengurangi eksposur atau menerapkan strategi manajemen risiko sebelum penurunan harga semakin dalam.
 - Pada periode 2023–2025, jumlah candlestick bullish dan bearish menjadi lebih seimbang dengan rentang pergerakan harga yang relatif sempit, menunjukkan fase konsolidasi dan ketidakpastian arah pasar.
   - Investor disarankan menunggu konfirmasi breakout yang didukung oleh peningkatan volume atau pola candlestick bullish yang kuat sebelum membuka posisi baru, guna mengurangi risiko false breakout
 
 ### Daily Return, Volatility and Volume
-![MA](images/5-chart.png)\
+![MA](images/5-chart.png)
 - Return harian berfluktuasi di sekitar nol, menunjukkan tidak adanya arah pergerakan jangka pendek yang konsisten. Beberapa lonjakan return positif maupun negatif mengindikasikan adanya peristiwa pasar yang berdampak signifikan, sementara penurunan tajam mencerminkan periode koreksi pasar atau meningkatnya tekanan jual (panic selling).
   - Investor sebaiknya memperhatikan periode dengan lonjakan return yang ekstrem karena dapat menandakan peningkatan risiko. Mengombinasikan analisis teknikal, fundamental, dan manajemen risiko dapat membantu mengurangi dampak volatilitas yang tinggi.
 - Volatilitas relatif rendah dan stabil sebelum 2020, mencerminkan kondisi pasar yang lebih tenang. Volatilitas kemudian meningkat tajam pada periode 2021–2022, menunjukkan ketidakpastian pasar dan risiko yang lebih tinggi. Meskipun volatilitas menurun setelahnya, levelnya masih berada di atas periode sebelum 2020, mengindikasikan bahwa pasar tetap lebih sensitif terhadap faktor eksternal.
