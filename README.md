@@ -21,53 +21,43 @@ Data tersebut berisi informasi mengenai pergerakan saham Alibaba Group yang terd
 - Volume: Jumlah saham yang diperdagangkan dalam satu hari.
 
 ## Dashboard Overview
-![Dashboard](images/Dashboard.png)
+![Dashboard](images/1-Dashboard.png)
 
 ## Dashboard Insights & Business Recommendation 
 ### Key Performance Indicator
-![KPI](images/Dashboard.png)
-- rbwrjee
+![KPI](images/2-KPI.png)
+- The average closing price was 135.15, with an average daily high of 136.92 and an average daily low of 133.36, indicating a relatively narrow daily trading range.
+  - Investors may consider applying a range trading strategy or waiting for a confirmed breakout before entering new positions, as limited price movements generally offer fewer profit opportunities until a clearer market trend emerges.
+- The average daily return of 0.04% indicates relatively slow daily growth, suggesting a period of price stagnation.
+  - Investors should not rely solely on short-term capital gains but should combine technical and fundamental analysis to generate more reliable investment signals and reduce the risk of making uninformed decisions.
+- The average daily trading volume of 18.99 million shares reflects strong market activity and high liquidity.
+  - High liquidity enables investors to enter and exit positions more efficiently, typically with lower slippage risk and narrower bid-ask spreads, resulting in smoother trade execution.
 
-### Daily High-Low Range
-![Daily HL Range](images/Daily_High-Low_Range.png)\
-Grafik rentang harga harian (High–Low) menunjukkan bahwa volatilitas
-harga saham Alibaba bervariasi dari waktu ke waktu. Terdapat beberapa
-periode dengan rentang harga yang jauh lebih besar dibandingkan periode
-lainnya, yang mengindikasikan adanya peningkatan volatilitas harian. Lonjakan pada rentang High–Low pada periode tertentu menunjukkan bahwa
-pada hari-hari tersebut terjadi pergerakan harga yang lebih ekstrem,
-meskipun arah pergerakan tidak selalu sama.
+### Trend and Moving Average
+![MA](images/3-Trend_and_MA.png)\
+- Harga saham Alibaba menunjukkan tren naik yang kuat selama 2016–2020, mencerminkan fase pertumbuhan perusahaan dan meningkatnya kepercayaan investor. Namun, pada periode 2021–2022 terjadi pembalikan tren yang signifikan, ditandai dengan MA 50 hari memotong ke bawah MA 200 hari (Death Cross), yang mengindikasikan momentum bearish yang kuat.
+  - Investor sebaiknya meningkatkan kewaspadaan selama periode bearish dan menerapkan strategi manajemen risiko, seperti penggunaan stop-loss atau pengurangan eksposur, untuk membatasi potensi kerugian.
+- Sejak 2023, harga saham bergerak sideways, menunjukkan fase konsolidasi setelah tren penurunan. Meskipun terdapat indikasi pemulihan pada periode terbaru, momentum tersebut belum cukup kuat untuk mengonfirmasi terbentuknya tren bullish jangka panjang.
+  - Investor sebaiknya menunggu konfirmasi breakout atau sinyal bullish yang lebih kuat sebelum menambah posisi, sehingga risiko false breakout dapat diminimalkan.
 
-### Trend Volume
-![Vol Trend](images/Volume_Trend.png)\
-Grafik volume perdagangan menunjukkan bahwa aktivitas transaksi saham
-Alibaba bervariasi dari waktu ke waktu, dengan beberapa periode
-menunjukkan lonjakan volume yang signifikan. Lonjakan tersebut
-mengindikasikan meningkatnya partisipasi pelaku pasar pada periode
-tertentu.\
-Peningkatan volume pada periode tertentu sejalan dengan meningkatnya
-volatilitas harga, yang menunjukkan bahwa pergerakan harga pada periode
-tersebut didukung oleh aktivitas perdagangan yang tinggi.
-![Vol Year Trend](images/Trading_Volume_Per_Year.png)\
-Grafik tren volume per tahun menunjukkan bahwa pada tahun 2014 terjadi perdagangan yang sangat aktif yang mencerminkan sentimen pasar yang sangat kuat. Sebaliknya volume perdagangan terendah terjadi pada tahun 2016 yang menunjukkan pada tahun tersebut pasar lebih sepi atau kurangnya sentimen pasar terhadap saham.
+### Candlestick
+![Candlestick](images/4-Candlestick.png)\
+- Candlestick bullish dan bearish muncul secara bergantian selama periode 2017-2021, namun di didominasi oleh candlestick bullish, mencerminkan buying pressure lebih kuat sehinggga mendorong harga saham mencapai puncaknya pada tahun 2021. Setelah itu, frekuensi candlestick bearish meningkat dan diikuti penurunan harga yang tajam, menunjukkan perubahan sentimen pasar dari bullish menjadi bearish.
+  - Investor sebaiknya memperhatikan perubahan dominasi pola candlestick sebagai sinyal awal perubahan tren, sehingga dapat mengurangi eksposur atau menerapkan strategi manajemen risiko sebelum penurunan harga semakin dalam.
+- Pada periode 2023–2025, jumlah candlestick bullish dan bearish menjadi lebih seimbang dengan rentang pergerakan harga yang relatif sempit, menunjukkan fase konsolidasi dan ketidakpastian arah pasar.
+  - Investor disarankan menunggu konfirmasi breakout yang didukung oleh peningkatan volume atau pola candlestick bullish yang kuat sebelum membuka posisi baru, guna mengurangi risiko false breakout
 
-### Moving Average
-![MA](images/MA.png)\
-Grafik moving average menunjukkan bahwa harga saham Alibaba mengalami
-tren kenaikan yang kuat sejak sekitar tahun 2015 hingga mencapai puncak pada tahun 2020-2021, ditandai dengan MA 20 yang sering berada di atas MA 100 hari, menunjukkan kondisi bullish. Setelah
-mencapai puncaknya, harga mengalami penurunan signifikan, ditandai oleh
-perpotongan MA 20 dan MA 100 dan posisi MA 20 yang berada di bawah MA 100, mengindikasikan perubahan tren menjadi bearish.
-Pada periode selanjutnya, pergerakan harga cenderung lebih stabil
-dengan moving average yang relatif mendatar.
+### Daily Return, Volatility and Volume
+![MA](images/5-chart.png)\
+- Return harian berfluktuasi di sekitar nol, menunjukkan tidak adanya arah pergerakan jangka pendek yang konsisten. Beberapa lonjakan return positif maupun negatif mengindikasikan adanya peristiwa pasar yang berdampak signifikan, sementara penurunan tajam mencerminkan periode koreksi pasar atau meningkatnya tekanan jual (panic selling).
+  - Investor sebaiknya memperhatikan periode dengan lonjakan return yang ekstrem karena dapat menandakan peningkatan risiko. Mengombinasikan analisis teknikal, fundamental, dan manajemen risiko dapat membantu mengurangi dampak volatilitas yang tinggi.
+- Volatilitas relatif rendah dan stabil sebelum 2020, mencerminkan kondisi pasar yang lebih tenang. Volatilitas kemudian meningkat tajam pada periode 2021–2022, menunjukkan ketidakpastian pasar dan risiko yang lebih tinggi. Meskipun volatilitas menurun setelahnya, levelnya masih berada di atas periode sebelum 2020, mengindikasikan bahwa pasar tetap lebih sensitif terhadap faktor eksternal.
+  - Investor disarankan menyesuaikan ukuran posisi (position sizing) dan menerapkan strategi manajemen risiko yang lebih ketat selama periode volatilitas tinggi untuk meminimalkan potensi kerugian.
+- Volume perdagangan relatif stabil sepanjang periode pengamatan, menunjukkan partisipasi pasar yang konsisten. Lonjakan volume pada 2021–2022 mencerminkan meningkatnya aktivitas investor akibat peristiwa pasar yang signifikan. Setelah itu, volume menurun namun tetap berada di atas level awal, menunjukkan minat investor yang masih cukup kuat terhadap saham Alibaba.
+  - Investor dapat menggunakan volume perdagangan sebagai indikator konfirmasi pergerakan harga, karena kenaikan atau penurunan harga yang didukung volume tinggi umumnya memberikan sinyal tren yang lebih kuat dibandingkan perubahan harga dengan volume rendah.
 
-### Correlation Matrix
-![Corr Matrix](images/Corr_Matrix.png)\
-Hasil analisis korelasi menunjukkan bahwa variabel Open, High, Low,
-dan Close memiliki korelasi yang sangat kuat satu sama lain, yang
-menunjukkan bahwa pergerakan harga saham bersifat konsisten dalam satu
-hari perdagangan. Sementara itu, volume perdagangan memiliki korelasi
-yang relatif lemah terhadap harga, yang mengindikasikan bahwa tingginya
-volume tidak selalu diikuti oleh perubahan harga yang signifikan.
+## Conclusion
+Overall, Alibaba's stock has gone through a complete market cycle, starting with strong growth during 2016–2020, peaking in 2020–2021, and then experiencing a sharp correction in 2021–2022, marking a shift to a bearish market. Since 2023, the stock has been moving in a consolidation phase with early signs of recovery, although a long-term bullish trend has yet to be confirmed. Therefore, investors are advised to remain cautious, wait for stronger trend confirmation before increasing their positions, and combine technical analysis, fundamental analysis, and sound risk management to make more informed investment decisions.
 
-## Kesimpulan
-Dari hasil EDA, dapat disimpulkan bahwa saham Alibaba memiliki karakteristik fluktuatif. Harga penutupan mengalami kenaikan yang signifikan sejak sekitar tahun 2015 hingga mencapai puncaknya pada periode 2020–2021, sebelum akhirnya mengalami penurunan yang cukup tajam. Volatilitas harga tidak konstan, dengan beberapa periode menunjukkan pergerakan harga harian yang ekstrem. Volume perdagangan juga bervariasi dan cenderung meningkat pada periode volatilitas tinggi, meskipun korelasinya terhadap harga relatif lemah. Analisis moving average mengindikasikan adanya perubahan tren dari bullish ke bearish, diikuti oleh fase konsolidasi pada periode terakhir. Secara keseluruhan, saham Alibaba menunjukkan dinamika pasar yang kuat dengan perubahan tren yang jelas dari waktu ke waktu.
+
 
