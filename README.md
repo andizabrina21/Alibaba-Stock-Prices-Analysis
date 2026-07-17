@@ -8,9 +8,8 @@ This project aims to analyze Alibaba's stock price movements using a data analyt
 Stocks are important assets for companies as a source of funding to support business expansion, while also serving as an investment instrument for investors. Stock prices are dynamic and influenced by various factors, such as company performance, economic conditions, regulatory changes, and market sentiment. Therefore, stock market analysis is essential to understand market movement patterns and support better investment decision-making. As one of the world's largest technology companies, Alibaba's (BABA) stock experiences significant fluctuations over time. Analyzing historical stock price data is necessary to identify trends, measure volatility, and gain insights into potential investment risks and opportunities.
 
 ## Dataset Description
-The data consists of Alibaba stock from January 2014 to February 2025, obtained from the New York Stock Exchange (NYSE). This dataset is sourced from [Kaggle].
-(https://www.kaggle.com/datasets/mhassansaboor/alibaba-stock-dataset-2025/data)\
-![Deskripsi gambar](images/Datasetpic.png)
+The data consists of Alibaba stock from January 2014 to February 2025, obtained from the New York Stock Exchange (NYSE). This dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/mhassansaboor/alibaba-stock-dataset-2025/data).\
+![Deskripsi gambar](images/Datasetpic.png)\
 The data contains information on the trading activities of Alibaba Group shares listed on the NYSE. It includes the following variables:
 - Date: The stock trading date.
 - Adj Close: The adjusted closing price after accounting for dividends and stock splits.
